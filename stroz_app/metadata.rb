@@ -1,0 +1,10 @@
+name 'stroz_app'
+maintainer 'The Authors'
+maintainer_email 'you@example.com'
+license 'all_rights'
+description 'Installs/Configures stroz_app'
+long_description 'Installs/Configures stroz_app'
+version '0.1.0'
+
+depends 'php'
+depends 'apache2'

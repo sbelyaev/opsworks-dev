@@ -1,0 +1,7 @@
+name 'dummy'
+maintainer 'ClearScale, Inc.'
+maintainer_email 'info@clearscale.net'
+license 'All rights reserved'
+description 'Installs/Configures dummy'
+long_description 'Installs/Configures dummy'
+version '0.1.0'
